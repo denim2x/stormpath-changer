@@ -1,0 +1,7 @@
+docs
+test.js
+.env
+.travis.yml
+.gitignore
+README.md
+LICENSE

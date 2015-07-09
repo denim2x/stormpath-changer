@@ -1,0 +1,56 @@
+{
+  "name": "stormpath-changer",
+  "version": "0.0.1",
+  "description": "Enables users of your Stormpath app to easily change their password",
+  "keywords": [
+    "stormpath",
+    "api",
+    "service",
+    "users",
+    "accounts"
+  ],
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/denim2x/stormpath-changer.git"
+  },
+  "author": {
+    "name": "denim2x"
+  },
+  "license": "MIT",
+  "main": "./index",
+  "dependencies": {
+    "async": "^0.9.0",
+    "csurf": "^1.8.0",
+    "forms": "^1.1.1",
+    "jade": "^1.8.2",
+    "utils-merge": "^1.0.0"
+  },
+  "devDependencies": {
+    "cheerio": "^0.18.0",
+    "mocha": "^2.1.0",
+    "supertest": "^0.15.0",
+    "uuid": "^2.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/denim2x/stormpath-changer/issues"
+  },
+  "homepage": "https://github.com/denim2x/stormpath-changer",
+  "_id": "stormpath-changer@0.0.1",
+  "_from": "stormpath-changer@*",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "denim2x",
+    "email": "mail@denim.2fh.co"
+  },
+  "maintainers": [
+    {
+      "name": "denim2x",
+      "email": "mail@denim.2fh.co"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
